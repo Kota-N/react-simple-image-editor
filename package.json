@@ -1,0 +1,38 @@
+{
+  "name": "react-simple-image-editor",
+  "version": "1.0.2",
+  "description": "A simple image editor for react",
+  "main": "./build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc ./src/modules/utils.ts",
+    "build": "webpack ./src/index.js"
+  },
+  "keywords": [
+    "react",
+    "image editor",
+    "canvas",
+    "draw",
+    "simple"
+  ],
+  "author": "Kota N",
+  "license": "ISC",
+  "dependencies": {},
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.6",
+    "@babel/preset-react": "^7.7.4",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.3.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "style-loader": "^1.0.1",
+    "typescript": "^4.1.2",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
