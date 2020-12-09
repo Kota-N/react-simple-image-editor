@@ -27,7 +27,7 @@ const MyLegendaryComponent = () => (
 );
 ```
 
-Image path can be an image URL, or an imported image file.
+Image path can be an image URL or an imported image file.
 
 `Example using an imported image file:`
 

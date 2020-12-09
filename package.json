@@ -1,7 +1,8 @@
 {
   "name": "react-simple-image-editor",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple image editor for react",
+  "homepage": "https://github.com/Kota-N/react-simple-image-editor#readme",
   "main": "./build/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
